@@ -1,7 +1,7 @@
 import datetime          #importing datetime module
 
 class Person:            #Defining class
-    def __init__(self, name, surname, birthday, address, telephone, email): # Special method to ass class obects
+    def __init__(self, name, surname, birthday, address, telephone, email): # Special method to pass class obects
         self.name = name 
         self.surname = surname
         self.birthday = birthday
